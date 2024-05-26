@@ -1,5 +1,5 @@
 # Cam-HackBSZ
-El código es un script en Python que utiliza la biblioteca requests para interactuar con la API del sitio web insecam.org y obtener información sobre cámaras de seguridad accesibles públicamente en diferentes países. El script también utiliza la biblioteca re para buscar direcciones IP en las páginas web y colorama para mejorar la visualización en la terminal.
+El Python que utiliza la biblioteca requests para interactuar con la API del sitio web insecam.org y obtener información sobre cámaras de seguridad accesibles públicamente en diferentes países.
 
 ### Resumen
 El script realiza los siguientes pasos:
