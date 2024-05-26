@@ -41,7 +41,7 @@ apt-get install python3
 <br></br>
 apt-get install git
 <br></br>
-git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+git clone https://github.com/AvastrOficial/Cam-HackBSZ
 <br></br>
 cd Cam-Hackers
 <br></br>
