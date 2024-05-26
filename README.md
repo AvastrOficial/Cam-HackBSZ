@@ -1,5 +1,6 @@
 # Cam-HackBSZ
 El Python que utiliza la biblioteca requests para interactuar con la API del sitio web insecam.org y obtener información sobre cámaras de seguridad accesibles públicamente en diferentes países.
+![image](https://github.com/AvastrOficial/Cam-HackBSZ/assets/91764815/35da9edf-4f11-44e9-ada6-0139eb55bf47)
 
 ### Resumen
 El script realiza los siguientes pasos:
@@ -13,7 +14,7 @@ Solicita al usuario que ingrese el código de un país.
 Busca y extrae direcciones IP de cámaras en el país seleccionado.
 <br></br>
 Guarda las direcciones IP en un archivo de texto.
-<br></br>
+
 ### Funcionamiento
 Importaciones y Configuración Inicial:
 <br></br>
@@ -48,9 +49,10 @@ cd Cam-Hackers
 pip install -r requirements.txt
 <br></br>
 python3 cam_hackbsz.py
-<br></br>
+
 ### Referencias de uso :
 https://github.com/AngelSecurityTeam/Cam-Hackers
 
 ## Quieres correrlo en una pagina web ?
 link : https://replit.com/@StrAva1/Cam-Hack-Bsz
+
