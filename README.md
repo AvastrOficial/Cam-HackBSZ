@@ -47,7 +47,7 @@ cd Cam-Hackers
 <br></br>
 pip install -r requirements.txt
 <br></br>
-python3 cam-hackers.py
+python3 cam_hackbsz.py
 <br></br>
 ### Referencias de uso :
 https://github.com/AngelSecurityTeam/Cam-Hackers
