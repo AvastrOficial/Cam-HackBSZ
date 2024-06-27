@@ -19,6 +19,7 @@ data = resp.json()
 countries = data['countries']
 
 print("""
+\033[1;31m 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠐⠢⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠉⠀⠀⠀⠱⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣮⣑⠡⡀⡀⠀⢀⡇⠀⠀⠀⠀
@@ -46,12 +47,16 @@ print("""
 ░ ░            ░  ░       ░       ░  ░  ░      ░  ░░ ░      ░  ░      
 ░                                                  ░                  
 \033[1;31m 
-                             BSZ - CAM HACK 
+                             BSZ - CAM HACK
+                             Version : 0.0.2
+                             BY : @AvaStrOficial
+                             Foro : appbsz.crearforo.net 
+                             Telegram : https://t.me/+sOf-gqn6SClmNDcx
 \033[1;31m\033[1;37m""")
 
 
 for key, value in countries.items():
-    print(f'Code : ({key}) - {value["country"]} / ({value["count"]})  ')
+    print(f'Code :\033[1;31m({key})\033[1;37m - {value["country"]} / \033[1;31m({value["count"]})\033[1;37m')
     print("")
 
 
