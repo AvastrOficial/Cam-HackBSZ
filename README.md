@@ -38,17 +38,15 @@ Se maneja cualquier excepción que pueda ocurrir durante la ejecución.
 Se imprime un mensaje final indicando que el archivo se ha guardado y se cierra el programa.
 
 ### requerimientos :
-apt-get install python3
-<br></br>
-apt-get install git
+pkg install git
 <br></br>
 git clone https://github.com/AvastrOficial/Cam-HackBSZ
 <br></br>
-cd Cam-Hackers
+cd Cam-HackBSZ
 <br></br>
 pip install -r requirements.txt
 <br></br>
-python3 cam_hackbsz.py
+python cam_hackbsz.py
 
 ### Referencias de uso :
 https://github.com/AngelSecurityTeam/Cam-Hackers
